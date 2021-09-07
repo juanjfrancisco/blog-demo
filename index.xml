@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Sep 2021 10:03:35 -0400</lastBuildDate><atom:link href="https://juanjfrancisco.github.io/blog-demo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My first post</title>
+      <title>My first post modificado </title>
       <link>https://juanjfrancisco.github.io/blog-demo/posts/firstpost/</link>
       <pubDate>Tue, 07 Sep 2021 10:03:35 -0400</pubDate>
       
       <guid>https://juanjfrancisco.github.io/blog-demo/posts/firstpost/</guid>
-      <description>Heading 1 Heading 2 Some text in bold More text now cursive
+      <description>Heading 1 Heading 2 Heading 3 Some text in bold More text now cursive
 Learn more about C# click here
 Using code fence public void main (string [] args ) { Console.WriteLine(&amp;#34;Hello universe&amp;#34;); } &amp;lt;p&amp;gt; Some text &amp;lt;b&amp;gt;bold&amp;lt;/b&amp;gt; &amp;lt;/p&amp;gt; Format with HTML, is that what you like Table demo    First colum colum 2     Function main is the first function to run   Function main is the first function to run    List</description>
     </item>
